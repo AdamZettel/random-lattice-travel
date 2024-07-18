@@ -3,7 +3,7 @@ What happens when you travel across a random lattice? By random lattice I mean a
 
 
 ![path1](images/histogram_and_path1.png)
-![path1](images/histogram_and_path2.png)
-![path1](images/histogram_and_path3.png)
-![path1](images/histogram_and_path4.png)
+![path2](images/histogram_and_path2.png)
+![path3](images/histogram_and_path3.png)
+![path4](images/histogram_and_path4.png)
 
